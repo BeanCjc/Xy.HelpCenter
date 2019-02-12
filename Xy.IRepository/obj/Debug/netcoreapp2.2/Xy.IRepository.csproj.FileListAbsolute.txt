@@ -1,0 +1,8 @@
+D:\Study\Xy.HelpCenter\Xy.IRepository\bin\Debug\netcoreapp2.2\Xy.IRepository.deps.json
+D:\Study\Xy.HelpCenter\Xy.IRepository\bin\Debug\netcoreapp2.2\Xy.IRepository.dll
+D:\Study\Xy.HelpCenter\Xy.IRepository\bin\Debug\netcoreapp2.2\Xy.IRepository.pdb
+D:\Study\Xy.HelpCenter\Xy.IRepository\obj\Debug\netcoreapp2.2\Xy.IRepository.csproj.CoreCompileInputs.cache
+D:\Study\Xy.HelpCenter\Xy.IRepository\obj\Debug\netcoreapp2.2\Xy.IRepository.AssemblyInfoInputs.cache
+D:\Study\Xy.HelpCenter\Xy.IRepository\obj\Debug\netcoreapp2.2\Xy.IRepository.AssemblyInfo.cs
+D:\Study\Xy.HelpCenter\Xy.IRepository\obj\Debug\netcoreapp2.2\Xy.IRepository.dll
+D:\Study\Xy.HelpCenter\Xy.IRepository\obj\Debug\netcoreapp2.2\Xy.IRepository.pdb

@@ -4,4 +4,12 @@
     <TargetFramework>netcoreapp2.2</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="sqlSugarCore" Version="4.9.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Xy.Model\Xy.Model.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -207,6 +207,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "Xy.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "compile": {
+          "bin/placeholder/Xy.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Xy.Model.dll": {}
+        }
       }
     }
   },
@@ -536,12 +546,11 @@
       ]
     },
     "Microsoft.NETCore.Targets/2.0.0": {
-      "sha512": "mJnCMoBfWL0lxxlBFJ/8cZKTfPpI82TekZkUqvSCBtunUaaqr2LVeWl1zQYdanAdk4Ddf1HCwb8+DNYaNFBk1w==",
+      "sha512": "odP/tJj1z6GylFpNo7pMtbd/xQgTC3Ex2If63dRTL38bBNMwsBnJ+RceUIyHdRBC0oik/3NehYT+oECwBhIM3Q==",
       "type": "package",
       "path": "microsoft.netcore.targets/2.0.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/netstandard1.0/_._",
@@ -679,31 +688,37 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "Xy.Model/1.0.0": {
+      "type": "project",
+      "path": "../Xy.Model/Xy.Model.csproj",
+      "msbuildProject": "../Xy.Model/Xy.Model.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
-      "Microsoft.NETCore.App >= 2.2.0"
+      "Microsoft.NETCore.App >= 2.2.0",
+      "Xy.Model >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
+    "C:\\Users\\11754\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\Xy.HelpCenter\\Xy.IServices\\Xy.IServices.csproj",
+      "projectUniqueName": "D:\\Study\\Xy.HelpCenter\\Xy.IServices\\Xy.IServices.csproj",
       "projectName": "Xy.IServices",
-      "projectPath": "C:\\Users\\Administrator\\source\\repos\\Xy.HelpCenter\\Xy.IServices\\Xy.IServices.csproj",
-      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\source\\repos\\Xy.HelpCenter\\Xy.IServices\\obj\\",
+      "projectPath": "D:\\Study\\Xy.HelpCenter\\Xy.IServices\\Xy.IServices.csproj",
+      "packagesPath": "C:\\Users\\11754\\.nuget\\packages\\",
+      "outputPath": "D:\\Study\\Xy.HelpCenter\\Xy.IServices\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\11754\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -715,7 +730,11 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Study\\Xy.HelpCenter\\Xy.Model\\Xy.Model.csproj": {
+              "projectPath": "D:\\Study\\Xy.HelpCenter\\Xy.Model\\Xy.Model.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
