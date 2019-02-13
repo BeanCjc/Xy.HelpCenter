@@ -21,18 +21,12 @@ namespace Xy.Repository.Bsae
         /// <summary>
         /// 数据连接对象
         /// </summary>
-        public SqlSugarClient Db { get; private set; }
+        public SqlSugarClient Db { get; }
 
         /// <summary>
         /// 数据库上下文实例（自动关闭连接
         /// </summary>
-        public static DbContext Context
-        {
-            get
-            {
-                return new DbContext();
-            }
-        }
+        public static DbContext Context => new DbContext();
 
         /// <summary>
         /// 功能描述:构造函数
@@ -240,9 +234,9 @@ namespace {Namespace}
             if (lstEntitys != null)
             {
                 lstTypes = new Type[lstEntitys.Length];
-                for (int i = 0; i < lstEntitys.Length; i++)
+                for (var i = 0; i < lstEntitys.Length; i++)
                 {
-                    T t = lstEntitys[i];
+                    var t = lstEntitys[i];
                     lstTypes[i] = typeof(T);
                 }
             }

@@ -5,7 +5,6 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 using Xy.IRepository.Base;
-using Xy.Repository.Sugar;
 
 namespace Xy.Repository.Bsae
 {
@@ -13,9 +12,9 @@ namespace Xy.Repository.Bsae
     {
         public DbContext Context { get; set; }
 
-        internal SqlSugarClient Db { get; private set; }
+        internal SqlSugarClient Db { get; }
 
-        internal SimpleClient<TEntity> EntityDB { get; private set; }
+        internal SimpleClient<TEntity> EntityDB { get; }
 
         public BaseRepository()
         {

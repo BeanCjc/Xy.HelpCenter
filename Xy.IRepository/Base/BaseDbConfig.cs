@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Xy.Repository.Sugar
+namespace Xy.IRepository.Base
 {
     public class BaseDbConfig
     {

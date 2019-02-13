@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.Repository\bin\Debug\netcoreapp2.2\Xy.Repository.deps.json
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.Repository\bin\Debug\netcoreapp2.2\Xy.Repository.dll
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.Repository\bin\Debug\netcoreapp2.2\Xy.Repository.pdb
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.Repository\bin\Debug\netcoreapp2.2\Xy.IRepository.dll
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.Repository\bin\Debug\netcoreapp2.2\Xy.Model.dll
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.Repository\bin\Debug\netcoreapp2.2\Xy.IRepository.pdb
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.Repository\bin\Debug\netcoreapp2.2\Xy.Model.pdb
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.HelpCenter\bin\Debug\netcoreapp2.2\Xy.Repository.deps.json
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.HelpCenter\bin\Debug\netcoreapp2.2\Xy.Repository.dll
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.HelpCenter\bin\Debug\netcoreapp2.2\Xy.Repository.pdb
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.Repository\obj\Debug\netcoreapp2.2\Xy.Repository.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.Repository\obj\Debug\netcoreapp2.2\Xy.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.Repository\obj\Debug\netcoreapp2.2\Xy.Repository.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.Repository\obj\Debug\netcoreapp2.2\Xy.Repository.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.Repository\obj\Debug\netcoreapp2.2\Xy.Repository.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.Repository\obj\Debug\netcoreapp2.2\Xy.Repository.dll
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.Repository\obj\Debug\netcoreapp2.2\Xy.Repository.pdb

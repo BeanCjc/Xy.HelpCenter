@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.IServices\bin\Debug\netcoreapp2.2\Xy.IServices.deps.json
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.IServices\bin\Debug\netcoreapp2.2\Xy.IServices.dll
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.IServices\bin\Debug\netcoreapp2.2\Xy.IServices.pdb
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.IServices\bin\Debug\netcoreapp2.2\Xy.Model.dll
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.IServices\bin\Debug\netcoreapp2.2\Xy.Model.pdb
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.IServices\obj\Debug\netcoreapp2.2\Xy.IServices.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.IServices\obj\Debug\netcoreapp2.2\Xy.IServices.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.IServices\obj\Debug\netcoreapp2.2\Xy.IServices.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.IServices\obj\Debug\netcoreapp2.2\Xy.IServices.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.IServices\obj\Debug\netcoreapp2.2\Xy.IServices.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.IServices\obj\Debug\netcoreapp2.2\Xy.IServices.dll
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.IServices\obj\Debug\netcoreapp2.2\Xy.IServices.pdb

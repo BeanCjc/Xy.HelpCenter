@@ -546,11 +546,12 @@
       ]
     },
     "Microsoft.NETCore.Targets/2.0.0": {
-      "sha512": "odP/tJj1z6GylFpNo7pMtbd/xQgTC3Ex2If63dRTL38bBNMwsBnJ+RceUIyHdRBC0oik/3NehYT+oECwBhIM3Q==",
+      "sha512": "mJnCMoBfWL0lxxlBFJ/8cZKTfPpI82TekZkUqvSCBtunUaaqr2LVeWl1zQYdanAdk4Ddf1HCwb8+DNYaNFBk1w==",
       "type": "package",
       "path": "microsoft.netcore.targets/2.0.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/netstandard1.0/_._",
@@ -702,23 +703,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\11754\\.nuget\\packages\\": {},
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Study\\Xy.HelpCenter\\Xy.IServices\\Xy.IServices.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\Xy.HelpCenter\\Xy.IServices\\Xy.IServices.csproj",
       "projectName": "Xy.IServices",
-      "projectPath": "D:\\Study\\Xy.HelpCenter\\Xy.IServices\\Xy.IServices.csproj",
-      "packagesPath": "C:\\Users\\11754\\.nuget\\packages\\",
-      "outputPath": "D:\\Study\\Xy.HelpCenter\\Xy.IServices\\obj\\",
+      "projectPath": "C:\\Users\\Administrator\\source\\repos\\Xy.HelpCenter\\Xy.IServices\\Xy.IServices.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Administrator\\source\\repos\\Xy.HelpCenter\\Xy.IServices\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\11754\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -731,8 +732,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\Study\\Xy.HelpCenter\\Xy.Model\\Xy.Model.csproj": {
-              "projectPath": "D:\\Study\\Xy.HelpCenter\\Xy.Model\\Xy.Model.csproj"
+            "C:\\Users\\Administrator\\source\\repos\\Xy.HelpCenter\\Xy.Model\\Xy.Model.csproj": {
+              "projectPath": "C:\\Users\\Administrator\\source\\repos\\Xy.HelpCenter\\Xy.Model\\Xy.Model.csproj"
             }
           }
         }
