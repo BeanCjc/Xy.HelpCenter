@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.Common\bin\Release\netcoreapp2.2\Xy.Common.deps.json
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.Common\bin\Release\netcoreapp2.2\Xy.Common.dll
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.Common\bin\Release\netcoreapp2.2\Xy.Common.pdb
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.Common\obj\Release\netcoreapp2.2\Xy.Common.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.Common\obj\Release\netcoreapp2.2\Xy.Common.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.Common\obj\Release\netcoreapp2.2\Xy.Common.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.Common\obj\Release\netcoreapp2.2\Xy.Common.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.Common\obj\Release\netcoreapp2.2\Xy.Common.dll
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.Common\obj\Release\netcoreapp2.2\Xy.Common.pdb

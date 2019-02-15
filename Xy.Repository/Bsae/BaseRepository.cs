@@ -24,6 +24,11 @@ namespace Xy.Repository.Bsae
             EntityDB = Context.GetEntityDB<TEntity>(Db);
         }
 
+        /// <summary>
+        /// 功能描述:根据ID查询一条数据
+        /// </summary>
+        /// <param name="objId">主键id</param>
+        /// <returns>数据实体</returns>
         public async Task<TEntity> QueryByID(object objId) => await Task.Run(() => Db.Queryable<TEntity>().InSingle(objId));
 
         /// <summary>
@@ -45,7 +50,7 @@ namespace Xy.Repository.Bsae
         /// 写入实体数据
         /// </summary>
         /// <param name="entity">实体类</param>
-        /// <returns></returns>
+        /// <returns>返回影响的记录数</returns>
         public async Task<int> Add(TEntity entity)
         {
             var i = await Task.Run(() => Db.Insertable(entity).ExecuteReturnBigIdentity());
@@ -65,6 +70,12 @@ namespace Xy.Repository.Bsae
             return i > 0;
         }
 
+        /// <summary>
+        /// 更新实体数据，带有条件
+        /// </summary>
+        /// <param name="entity">实体对象</param>
+        /// <param name="strWhere">条件</param>
+        /// <returns></returns>
         public async Task<bool> Update(TEntity entity, string strWhere) => await Task.Run(() => Db.Updateable(entity).Where(strWhere).ExecuteCommand() > 0);
 
         public async Task<bool> Update(string strSql, SugarParameter[] parameters = null) => await Task.Run(() => Db.Ado.ExecuteCommand(strSql, parameters) > 0);

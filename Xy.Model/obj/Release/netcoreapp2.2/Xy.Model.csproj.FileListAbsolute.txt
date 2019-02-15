@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.Model\bin\Release\netcoreapp2.2\Xy.Model.deps.json
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.Model\bin\Release\netcoreapp2.2\Xy.Model.dll
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.Model\bin\Release\netcoreapp2.2\Xy.Model.pdb
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.Model\obj\Release\netcoreapp2.2\Xy.Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.Model\obj\Release\netcoreapp2.2\Xy.Model.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.Model\obj\Release\netcoreapp2.2\Xy.Model.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.Model\obj\Release\netcoreapp2.2\Xy.Model.dll
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.Model\obj\Release\netcoreapp2.2\Xy.Model.pdb
+C:\Users\Administrator\source\repos\Xy.HelpCenter\Xy.Model\obj\Release\netcoreapp2.2\Xy.Model.csprojAssemblyReference.cache

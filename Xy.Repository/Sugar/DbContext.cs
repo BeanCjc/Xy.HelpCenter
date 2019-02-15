@@ -106,7 +106,7 @@ namespace Xy.Repository.Bsae
         /// <param name="strPath">实体类存放路径</param>
         public void CreateClassFileByDBTalbe(string strPath)
         {
-            CreateClassFileByDBTalbe(strPath, "Xy.Entity");
+            CreateClassFileByDBTalbe(strPath, "Xy.Model");
         }
 
         /// <summary>

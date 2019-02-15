@@ -3,19 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xy.HelpCenter", "Xy.HelpCenter\Xy.HelpCenter.csproj", "{74F0C3F0-A8EC-4872-998E-C128F45CA508}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xy.Common", "Xy.Common\Xy.Common.csproj", "{33FC07C1-522C-4CD1-AB12-24E650E0BF78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xy.Common", "Xy.Common\Xy.Common.csproj", "{33FC07C1-522C-4CD1-AB12-24E650E0BF78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xy.Model", "Xy.Model\Xy.Model.csproj", "{ED722310-5095-4781-951D-2659D63A267F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xy.Model", "Xy.Model\Xy.Model.csproj", "{ED722310-5095-4781-951D-2659D63A267F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xy.IRepository", "Xy.IRepository\Xy.IRepository.csproj", "{84880ADE-ADAD-4AAE-892D-C45D719113C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xy.IRepository", "Xy.IRepository\Xy.IRepository.csproj", "{84880ADE-ADAD-4AAE-892D-C45D719113C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xy.Repository", "Xy.Repository\Xy.Repository.csproj", "{668295C3-F8DE-4BC1-88AC-352DC2720AAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xy.Repository", "Xy.Repository\Xy.Repository.csproj", "{668295C3-F8DE-4BC1-88AC-352DC2720AAF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xy.IServices", "Xy.IServices\Xy.IServices.csproj", "{F20309F3-C7BF-4E7C-82B6-31068EE5D267}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xy.IServices", "Xy.IServices\Xy.IServices.csproj", "{F20309F3-C7BF-4E7C-82B6-31068EE5D267}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xy.Services", "Xy.Services\Xy.Services.csproj", "{24054832-83AB-4DC7-9B75-E32E1F4ACDBD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xy.Services", "Xy.Services\Xy.Services.csproj", "{24054832-83AB-4DC7-9B75-E32E1F4ACDBD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xy.HelpCenter", "Xy.HelpCenter\Xy.HelpCenter.csproj", "{13CB9B0D-718F-4A31-92F4-CBD59BFF5668}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{74F0C3F0-A8EC-4872-998E-C128F45CA508}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{74F0C3F0-A8EC-4872-998E-C128F45CA508}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{74F0C3F0-A8EC-4872-998E-C128F45CA508}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{74F0C3F0-A8EC-4872-998E-C128F45CA508}.Release|Any CPU.Build.0 = Release|Any CPU
 		{33FC07C1-522C-4CD1-AB12-24E650E0BF78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{33FC07C1-522C-4CD1-AB12-24E650E0BF78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33FC07C1-522C-4CD1-AB12-24E650E0BF78}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -51,6 +47,10 @@ Global
 		{24054832-83AB-4DC7-9B75-E32E1F4ACDBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24054832-83AB-4DC7-9B75-E32E1F4ACDBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24054832-83AB-4DC7-9B75-E32E1F4ACDBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13CB9B0D-718F-4A31-92F4-CBD59BFF5668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13CB9B0D-718F-4A31-92F4-CBD59BFF5668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13CB9B0D-718F-4A31-92F4-CBD59BFF5668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13CB9B0D-718F-4A31-92F4-CBD59BFF5668}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

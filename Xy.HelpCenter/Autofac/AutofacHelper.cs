@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 using Autofac;
 using Autofac.Extensions.DependencyInjection;
 using Autofac.Extras.DynamicProxy;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.DependencyModel;
 
@@ -26,8 +27,7 @@ namespace Xy.HelpCenter.Autofac
             //builder.RegisterType<BlogCacheAOP>();//可以直接替换其他拦截器
             // builder.RegisterType<BlogRedisCacheAOP>();//可以直接替换其他拦截器
             //  builder.RegisterType<BlogLogAOP>();//这样可以注入第二个
-
-            // ※※★※※ 如果你是第一次下载项目，请先F6编译，然后再F5执行，※※★※※
+            
 
             #region 带有接口层的服务注入
             #region Service.dll 注入，有对应接口
@@ -68,7 +68,6 @@ namespace Xy.HelpCenter.Autofac
             //    .InterceptedBy(typeof(BlogLogAOP));
 
             #endregion
-
 
             //将services填充到Autofac容器生成器中
             builder.Populate(services);
